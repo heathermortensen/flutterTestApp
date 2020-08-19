@@ -4,18 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is the basic Flutter application.
+It counts the number of times that a user clicks a button on the screen.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Heather has the following list of tools installed on MacOS Catalina to run the application shown in the screenshot below.
+Heather has the following tools installed on MacOS Catalina to run the application.
 
 * Android Studio 4.0
 * Visual Studio
@@ -29,8 +23,28 @@ Heather has the following list of tools installed on MacOS Catalina to run the a
 
 * Curl v6.64.1
 
-Also,
+Also, for further investigation...
 
 * Labview trial version
 
-![screenshot](https://raw.githubusercontent.com/heathermortensen/flutterTestApp/master/images/screenOfFlutterCounterApp.png)
+![Application screenshot](https://raw.githubusercontent.com/heathermortensen/flutterTestApp/master/images/screenOfFlutterCounterApp.png)
+
+### Good Getting Started Tutorial
+
+* [Flutter Tutorial for Beginners - Build iOS & Android Apps w/ Googles Flutter & Dart](https://www.youtube.com/watch?v=6ZCz6Ylqk3A&list=PLR027qvMcifEJUMg-eCWji6djopWFTraL&index=7)
+
+### Getting down to brass tacks - State Management Rescources
+
+* [Flutter State Managment Guide](https://fireship.io/lessons/flutter-state-management-guide/)
+
+Draw a pic of second_app's various local and global states that need to be managed HERE
+
+* What is Firebase? Google platform selling software as service for user identification/authentication functionality and a big suite of other functionality for mobile dev. 
+Do they use this? [Firebase pricing](https://firebase.google.com/pricing)
+
+* [Adding user identification/authentication with firebase tutorial](https://www.youtube.com/watch?v=iTYD13w6Duo)
+
+* [Flutter Routes & Navigation](https://www.youtube.com/watch?v=nyvwx7o277U)
+
+*[Flutter Sailor Navigation Library Tutorial](https://www.youtube.com/watch?v=T1hzNcaAKiA)
+*[]()
