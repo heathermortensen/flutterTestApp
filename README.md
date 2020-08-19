@@ -33,7 +33,7 @@ Also, for further investigation...
 
 * [Flutter Tutorial for Beginners - Build iOS & Android Apps w/ Googles Flutter & Dart](https://www.youtube.com/watch?v=6ZCz6Ylqk3A&list=PLR027qvMcifEJUMg-eCWji6djopWFTraL&index=7)
 
-### Getting down to brass tacks - State Management Rescources
+### Getting down to brass tacks - State Management Resources
 
 * [Flutter State Managment Guide](https://fireship.io/lessons/flutter-state-management-guide/)
 
@@ -46,5 +46,6 @@ Do they use this? [Firebase pricing](https://firebase.google.com/pricing)
 
 * [Flutter Routes & Navigation](https://www.youtube.com/watch?v=nyvwx7o277U)
 
-*[Flutter Sailor Navigation Library Tutorial](https://www.youtube.com/watch?v=T1hzNcaAKiA)
+* [Flutter Sailor Navigation Library Tutorial](https://www.youtube.com/watch?v=T1hzNcaAKiA)
+
 *[]()
